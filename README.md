@@ -1,8 +1,9 @@
-To-Do List (Python)
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![CLI](https://img.shields.io/badge/Application-CLI-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+To-Do List (Python)
+
 Description
 
 A simple command-line based To-Do List application built using Python.
