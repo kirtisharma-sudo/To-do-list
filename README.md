@@ -46,6 +46,17 @@ This project helped me practice:
 ## Sample Output
 <img width="292" height="651" alt="image" src="https://github.com/user-attachments/assets/d49a2ba5-9ec7-4720-9bff-e8529cfa2174" />
 
+## 🚀 Future Enhancements
+
+- Save tasks permanently using JSON
+- Add due dates
+- Task priorities
+- Search tasks
+- Categories
+- GUI version with Tkinter
+- Cloud synchronization
+  
+---
 ## Author
 
 Kirti Sharma
