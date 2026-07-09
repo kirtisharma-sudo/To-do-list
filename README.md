@@ -44,7 +44,7 @@ This project helped me practice:
 - Writing clean and readable code
 ---
 ## Sample Output
-
+<img width="292" height="651" alt="image" src="https://github.com/user-attachments/assets/d49a2ba5-9ec7-4720-9bff-e8529cfa2174" />
 
 ## Author
 
