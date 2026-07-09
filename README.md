@@ -2,9 +2,10 @@
 ![CLI](https://img.shields.io/badge/Application-CLI-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-To-Do List (Python)
 
-Description
+## To-Do List (Python)
+
+## Description
 
 A simple command-line based To-Do List application built using Python.
 It allows users to add, view, and delete tasks.
@@ -12,7 +13,7 @@ This project is designed for beginners to practice lists, loops, and menu-driven
 
 ---
 
-Features
+## Features
 
 - Add tasks
 - View all tasks
@@ -21,7 +22,7 @@ Features
 
 ---
 
-How to Run
+## How to Run
 
 1. Make sure Python 3.10 or higher is installed
 2. Clone the repository
