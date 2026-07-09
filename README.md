@@ -1,5 +1,8 @@
 To-Do List (Python)
-
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![CLI](https://img.shields.io/badge/Application-CLI-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 Description
 
 A simple command-line based To-Do List application built using Python.
@@ -26,16 +29,21 @@ How to Run
 python todo.py
 
 ---
+## Learning Outcomes
 
-Skills Used
+This project helped me practice:
 
-- Python
-- Lists
-- Loops
+- Python fundamentals
+- Lists and loops
+- Functions
 - Conditional statements
-
+- User input handling
+- Menu-driven programming
+- Writing clean and readable code
 ---
+## Sample Output
 
-Author
+
+## Author
 
 Kirti Sharma
